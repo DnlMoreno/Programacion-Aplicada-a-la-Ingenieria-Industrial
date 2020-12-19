@@ -1,1 +1,1 @@
-# Tarea1-Programacion Aplicada a la Ingenieria Industrial
+# Tarea1-Programación Aplicada a la Ingeniería Industrial
