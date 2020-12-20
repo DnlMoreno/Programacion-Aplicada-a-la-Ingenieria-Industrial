@@ -1,0 +1,7 @@
+5 5
+Maximizar
+Fobjetivo: 20 x_1 + 40 x_2 + 20 x_3 + 15 x_4 + 30 x_5
+Sujeto a 
+Restriccion_1: 5 x_1 + 4 x_2 + 3 x_3 + 7 x_4 + 8 x_5 <= 25
+Restriccion_2: x_1 + 7 x_2 + 9 x_3 + 4 x_4 + 6 x_5 <= 25
+Restriccion_3: 8 x_1 + 10 x_2 + 2 x_3 + x_4 + 10 x_5 <= 25

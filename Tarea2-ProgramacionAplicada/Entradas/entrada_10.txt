@@ -1,0 +1,7 @@
+5 5
+Maximizar
+Fobjetivo: - 300 x_0 - 90 x_1 - x_2 + 150 x_3
+Sujeto a 
+Restriccion_1: 35 x_0 + 10 x_1 + 25 x_2 + 90 x_3 <= 120
+Restriccion_2: - 4 x_0 + 2 x_1 - 7 x_2 + 3 x_4 <= 12
+Restriccion_3:  - x_0 - x_1 <= 6

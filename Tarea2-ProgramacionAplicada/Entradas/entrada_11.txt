@@ -1,0 +1,5 @@
+3 5
+Maximizar
+Fobjetivo: 11000 x_0 + 9000 x_1 + 1000 x_2 
+Sujeto a 
+Restriccion_1: 1000 x_0 + 6000 x_1 + 4000 x_2 <= 10000

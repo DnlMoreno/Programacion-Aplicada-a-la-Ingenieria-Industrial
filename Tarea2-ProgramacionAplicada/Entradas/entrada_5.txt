@@ -1,0 +1,8 @@
+8 5
+Minimizar
+Fobjetivo: 24 y_0_0 + 2 y_0_1 + 20 y_1_0 + 4 y_1_1 + x_1 - x_2 + 4 x_3 - 5 x_4
+Sujeto a
+Restriccion_1: y_0_0 + y_0_1 + 5 y_1_0 + 4 y_1_1 <= 9
+Restriccion_2: 8 y_0_0 + 5 y_1_0 <= 9
+Restriccion_3: 4 x_2 + 5 x_1 <= 9
+Restriccion_4: 8 x_4 + 5 x_2 >= 7

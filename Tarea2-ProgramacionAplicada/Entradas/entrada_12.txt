@@ -1,0 +1,7 @@
+4 5
+Minimizar
+Fobjetivo: - x_0 - x_1 - x_2 - x_3 
+Sujeto a 
+Restriccion_1: 6 x_0 + 3.5 x_1 + 5 x_2 + 2 x_3 <= 10
+Restriccion_2: - x_0 + x_2 <= 0
+Restriccion_3: - x_1 + x_3 <= 0

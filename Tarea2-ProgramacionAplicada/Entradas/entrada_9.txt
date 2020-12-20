@@ -1,0 +1,7 @@
+5 5
+Maximizar
+Fobjetivo: 24 x_0_1 + 2 x_1_2
+Sujeto a 
+Restriccion_1: - x_0_1 + x_1_1 + 5 x_1_0 + 4 x_0_0 <= 9
+Restriccion_1: - 8 x_0_1 + x_1_1 + 5 x_0_0 + 4 x_1_0 <= 9
+Restriccion_1:  x_1_1 + x_0_1 + 5 x_0_0 + 4 x_1_0 <= 9
