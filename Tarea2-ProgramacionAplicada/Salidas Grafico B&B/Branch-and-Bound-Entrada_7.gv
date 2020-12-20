@@ -1,0 +1,42 @@
+// B&B
+digraph {
+	size="100,100"
+	1 [label=1]
+	1 [label="ID: 1 - FO: 32.00 - PL"]
+	2 [label="ID: 2"]
+	1 -> 2
+	3 [label="ID: 3"]
+	1 -> 3
+	2 [label="ID: 2 - FO: 32.00 - PL"]
+	4 [label="ID: 4"]
+	2 -> 4
+	5 [label="ID: 5"]
+	2 -> 5
+	3 [label="ID: 3 - FO: 31.00 - PL"]
+	6 [label="ID: 6"]
+	3 -> 6
+	7 [label="ID: 7"]
+	3 -> 7
+	4 [label="ID: 4 - FO: 24.00 - PE"]
+	5 [label="ID: 5 - FO: 28.00 - PL"]
+	8 [label="ID: 8"]
+	5 -> 8
+	9 [label="ID: 9"]
+	5 -> 9
+	6 [label="ID: 6 - FO: 25.00 - PL"]
+	10 [label="ID: 10"]
+	6 -> 10
+	11 [label="ID: 11"]
+	6 -> 11
+	7 [label="ID: 7 - FO: 26.00 - PE"]
+	8 [label="ID: 8 - FO: 28.00 - PL"]
+	12 [label="ID: 12"]
+	8 -> 12
+	13 [label="ID: 13"]
+	8 -> 13
+	9 [label="ID: 9 - FO: Infactible"]
+	10 [label="ID: 10 - FO: 22.00 - PE"]
+	11 [label="ID: 11 - FO: 22.00 - PL"]
+	12 [label="ID: 12 - FO: 24.00 - PE"]
+	13 [label="ID: 13 - FO: Infactible"]
+}

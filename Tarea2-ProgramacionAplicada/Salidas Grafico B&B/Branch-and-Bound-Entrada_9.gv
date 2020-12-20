@@ -1,0 +1,6 @@
+// B&B
+digraph {
+	size="100,100"
+	1 [label=1]
+	1 [label="ID: 1 - FO: 26.00 - PE"]
+}

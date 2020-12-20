@@ -1,0 +1,4 @@
+Nodos: 0
+Tiempo: 53.10520339012146
+Fobjetivo: 10000000000000
+No se alcanzo a encontrar una solución entera en el tiempo dado... Intente con un mayor tiempo límite.
