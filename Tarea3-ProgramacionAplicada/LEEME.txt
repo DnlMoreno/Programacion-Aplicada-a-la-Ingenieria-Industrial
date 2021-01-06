@@ -1,0 +1,16 @@
+Integrantes: Juan Aguilar Suazo - Daniel Moreno Cartagena
+
+La ejecución parte al seleccionarse una de las tres metahuristicas a utilizar.
+Opción 1: ILS
+Opción 2: GA
+Opción 3: Mixto
+Luego se ejecutaran las 40 instancias con 10 ejecuciones cada una, finalizando con un archivo csv que se guardara en la carpeta que vaya el código.
+IMPORTANTE: Se incluye un archivo instancias.txt que debe ir en la misma carpeta de los codigos y se utiliza para leer los nombres de las instancias. Las instancias estan todas en una carpeta con ese mismo nombre.
+Al finalizar la ejecucion de una de las opciones el programa permite volver a ejecutar el programa con otra opción. 
+
+Lógica OrOpt:
+-Babin, Gilbert & Deneault, Stéphanie & Laporte, Gilbert. (2007). Improvements to the Or-Opt Heuristic for the Symmetric Traveling Salesman Problem. Journal of the Operational Research Society. 58. 402-407. 
+G Laporte. (2010) A concise guide to the Traveling Salesman Problem. Journal of the Operational Research Society 61:1, pages 35-40.
+
+La implementación del cruzamiento (crossoverDPX) y mutación (mutation) se baso en el siguiente artículo:
+K. Ghoseiri and H. Sarhadi, "A 2opt-DPX genetic local search for solving symmetric traveling salesman problem," 2007 IEEE International Conference on Industrial Engineering and Engineering Management, Singapore, 2007, pp. 903-906, doi: 10.1109/IEEM.2007.4419322.
