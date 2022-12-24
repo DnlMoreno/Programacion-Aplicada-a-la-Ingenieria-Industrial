@@ -6,7 +6,7 @@ _Fecha de implementación:_ **$2^{do}$ _semestre 2020_**
 - Solamente se utilizaron estructuras de datos tales como: listas simples, listas doblemente enlazadas y colas.
 
 **Tarea 2:** Implementación del algoritmo de optimización Branch and Bound.
-- Se utilizó árboles binarios (estructura de dato no lineal).
+- Se utilizaron árboles binarios (estructura de dato no lineal).
 - Se usó la librería Cplex.
 
 **Tarea 3:** Desarrollo e implementación de 3 metaheurísticas para el problema de optimización TSP (Traveling Salesman Problem).
