@@ -1,5 +1,6 @@
 # Programación Aplicada a la Ingeniería Industrial
 
+_Curso de Ingeniería Civil Industrial UdeC_
 _Fecha de implementación:_ **$2^{do}$ _semestre 2020_**
 
 **Tarea 1:** Simulación del comportamiento de las colas de un banco.
