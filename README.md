@@ -1,6 +1,6 @@
 # Programación Aplicada a la Ingeniería Industrial
 
-**Tarea 1:** Simulación de colas de banco.
+**Tarea 1:** Simulación del comportamiento de las colas de un banco.
 - Solamente se utilizaron estructuras de datos tales como: listas simples, listas doblemente enlazadas y colas.
 
 **Tarea 2:** Implementación del algoritmo de optimización Branch and Bound.
