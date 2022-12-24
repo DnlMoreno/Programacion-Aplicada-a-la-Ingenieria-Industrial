@@ -12,4 +12,8 @@
 - GA (Genetic Algorithm)
 - Algoritmo híbrido entre ambos.
 
-Las 40 instancias resueltas del TSP se pueden encontrar en: http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/tsp/
+_Las 40 instancias resueltas del TSP se pueden encontrar en: http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/tsp/ _
+
+**Tarea 4:** Implementación propia de algoritmos no supervisados de Machine Learning. 
+- K-Means
+- DBSCAN 
