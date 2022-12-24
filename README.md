@@ -2,8 +2,6 @@
 
 _Fecha de implementación:_ **$2^{do}$ _semestre 2020_**
 
-Todos los códigos fueron implementados en Python.
-
 **Tarea 1:** Simulación del comportamiento de las colas de un banco.
 - Solamente se utilizaron estructuras de datos tales como: listas simples, listas doblemente enlazadas y colas.
 
