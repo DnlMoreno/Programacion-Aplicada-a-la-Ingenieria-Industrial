@@ -1,6 +1,6 @@
 # Programación Aplicada a la Ingeniería Industrial
 
-_Fecha de implementación:_ **$2^{do}$ _semestre 2020.**_
+_Fecha de implementación:_ **$2^{do}$ _semestre 2020_**
 
 Todos los códigos fueron implementados en Python.
 
