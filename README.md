@@ -12,7 +12,7 @@ _Fecha de implementación:_ **$2^{do}$ _semestre 2020_**
 **Tarea 3:** Desarrollo e implementación de 3 metaheurísticas para el problema de optimización TSP (Traveling Salesman Problem).
 - ILS (Iterated Local Search)
 - GA (Genetic Algorithm)
-- Algoritmo híbrido entre ambos.
+- Algoritmo híbrido entre ambas.
 
 _Las 40 instancias resueltas del TSP se pueden encontrar en: http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/tsp/_
 
