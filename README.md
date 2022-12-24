@@ -1,8 +1,6 @@
 # Programación Aplicada a la Ingeniería Industrial
 
-#### Curso de Ingeniería Civil Industrial UdeC
-
-Fecha de implementación: **$2^{do}$ _semestre 2020_**
+#### Curso de Ingeniería Civil Industrial UdeC - $2^{do}$ _semestre 2020_**
 
 **Tarea 1:** Simulación del comportamiento de las colas de un banco.
 - Solamente se utilizaron estructuras de datos tales como: listas simples, listas doblemente enlazadas y colas.
