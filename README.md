@@ -1,6 +1,6 @@
 # Programación Aplicada a la Ingeniería Industrial
 
-### Curso de Ingeniería Civil Industrial UdeC 
+## Curso de Ingeniería Civil Industrial UdeC 
 
 _Fecha de implementación:_ $2^{do}$ _semestre 2020_
 
