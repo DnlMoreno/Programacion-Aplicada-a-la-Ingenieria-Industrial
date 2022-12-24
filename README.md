@@ -1,9 +1,14 @@
 # Programación Aplicada a la Ingeniería Industrial
 
-Tarea 1: Simulación de colas de banco utilizando solamente estructuras de listas simple o doblemente enlazadas y colas
+**Tarea 1:** Simulación de colas de banco.
+- Solamente se utilizaron estructuras de datos tales como: listas simples, listas doblemente enlazadas y colas.
 
-Tarea 2: Uso de estructuras de datos no lineales como los árboles binarios junto con la librería Cplex para implementar el algoritmo de Branch and Bound
+**Tarea 2:** Implementación del algoritmo de optimización Branch and Bound.
+- Se utilizó árboles binarios (estructura de dato no lineal).
+- Se usó la librería Cplex.
 
-Tarea 3: Implementación de las metaheurísticas ILS y GA junto con una implementación híbrida, para resolver 40 de instancias de TSP disponibles en http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/tsp/
-
+**Tarea 3:** Desarrollo e implementación de 3 metaheurísticas para el problema de optimización TSP (Traveling Salesman Problem). Las 40 instancias resueltas del TSP se pueden encontrar en http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/tsp/
+- ILS (Iterated Local Search)
+- GA (Genetic Algorithm)
+- Algoritmo híbrido entre ambos.
 
