@@ -7,8 +7,9 @@
 - Se utilizó árboles binarios (estructura de dato no lineal).
 - Se usó la librería Cplex.
 
-**Tarea 3:** Desarrollo e implementación de 3 metaheurísticas para el problema de optimización TSP (Traveling Salesman Problem). Las 40 instancias resueltas del TSP se pueden encontrar en: http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/tsp/
+**Tarea 3:** Desarrollo e implementación de 3 metaheurísticas para el problema de optimización TSP (Traveling Salesman Problem).
 - ILS (Iterated Local Search)
 - GA (Genetic Algorithm)
 - Algoritmo híbrido entre ambos.
 
+Las 40 instancias resueltas del TSP se pueden encontrar en: http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/tsp/
